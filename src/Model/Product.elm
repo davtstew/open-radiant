@@ -372,7 +372,7 @@ getPalette product =
         TeamCity ->  p "#0cb0f2" "#905cfb" "#3bea62"
         YouTrack ->  p "#0cb0f2" "#905cfb" "#ff318c"
         Upsource ->  p "#22b1ef" "#9062f7" "#fd8224"
-        Hub ->       p "#00b8f1" "#9758fb" "#ffee45"
+        Hub ->       p "#c20029" "#fbd7aa" "#69010f"
         Kotlin ->    p "#22b1ef" "#9062f7" "#fd8224"
         MPS ->       p "#0b8fff" "#21d789" "#ffdc52"
         IntelliJEdu ->  p "#0d7bf7" "#fe315d" "#f97a12"
