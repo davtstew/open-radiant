@@ -84,7 +84,7 @@ var PRODUCTS = [
       palette: [ '#fc1681', '#786bfb', '#e14ce3' ]
     },  // dottrace // DT_
     { label: 'RD', id: 'rider',
-      palette: [ '#c40b55', '#e800ca', '#ffbd00' ]
+      palette: [ '#c40029', '#e8c7a5', '#82071a' ]
     },  // rider // RD_
     { label: ' ', id: 'empty2',
       palette: [ ]
