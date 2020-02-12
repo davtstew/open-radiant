@@ -360,7 +360,7 @@ getPalette product =
         WebStorm ->  p "#07c3f2" "#087cfa" "#fcf84a"
         CLion ->     p "#21d789" "#009ae5" "#ed358c"
         DataGrip ->  p "#22d88f" "#9775f8" "#ff318c"
-        AppCode ->   p "#087cfa" "#07c3f2" "#21d789"
+        AppCode ->   p "#0daf29" "#ebeff2" "#00652d"
         GoLand ->    p "#0d7bf7" "#b74af7" "#3bea62"
         ReSharper -> p "#c21456" "#e14ce3" "#fdbc2c"
         ReSharperCpp -> p "#fdbc2c" "#e14ce3" "#c21456"
